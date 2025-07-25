@@ -99,8 +99,6 @@ export default function Home() {
           href="https://nextjs.org?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          <Image
             aria-hidden
             src="/globe.svg"
             alt="Globe icon"
